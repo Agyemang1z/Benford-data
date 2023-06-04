@@ -1,5 +1,5 @@
 # Benford-data
-Benford Covid data for the research work on "How dependable is World Continental COVID-19 data? Disclosure of Inconsistencies in Daily Reportage Confirmed Cases and Deaths"
+Benford COVID data for the research work on "How dependable is World Continental COVID-19 data? Disclosure of Inconsistencies in Daily Reportage Confirmed Cases and Deaths"
 ### The following are the packages used for this analysis
 library(benford.analysis)
 library(BenfordTests)
